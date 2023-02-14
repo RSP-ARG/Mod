@@ -190,7 +190,7 @@
         <English>The oracle</English>
         <French>« Mais que recherchent ces gens chez nous ? »</French>
         <German>Das Orakel</German>
-	<Spanish>El oraculo</Spanish>
+	<Spanish>El Oraculo</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_SIX_COLONIES_TEXT</Tag>
@@ -260,216 +260,255 @@
         <English>Once again, a new settlement joins your blossoming empire.[NEWLINE][NEWLINE]Forests become fields. Roads crisscross the wilderness. More and more cities spring up and cover the land.[NEWLINE][NEWLINE]A new nation is born. A nation strong enough to fight for its independence.[NEWLINE][NEWLINE]</English>
         <French>Une nouvelle nation est en train de grandir. Mais cette nation est-elle suffisamment autonome pour déjà prétendre à se gouverner par elle-même ?[NEWLINE][NEWLINE]</French>
         <German>Schon wieder zählt eine neue Siedlung zu Eurem erblühenden Reich.[NEWLINE][NEWLINE]Aus Wäldern werden Felder. Straßen durchziehen die Wildnis. Immer mehr Städte ersprießen und überziehen das Land.[NEWLINE][NEWLINE]Eine neue Nation entsteht. Eine Nation, stark genug, ihre Unabhängigkeit zu erstreiten.[NEWLINE][NEWLINE]</German>
+	<Spanish>Una vez más, un nuevo asentamiento se une a tu floreciente imperio.[NEWLINE][NEWLINE]Los bosques se convierten en campos. Los caminos atraviesan el desierto. Más y más ciudades surgen y cubren la tierra.[NEWLINE][NEWLINE]Nace una nueva nación. Una nación lo suficientemente fuerte como para luchar por su independencia.[NEWLINE][NEWLINE]</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIRST_CHURCH</Tag>
         <English>Your first house of God</English>
         <French>Votre première église</French>
         <German>Euer erstes Gotteshaus</German>
+	<Spanish>Tu primera Iglesia</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIRST_CHURCH_HEAD</Tag>
         <English>The house of God</English>
         <French>Votre première église</French>
         <German>Das Haus Gottes</German>
+	<Spanish>La casa de Dios</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIRST_CHURCH_TEXT</Tag>
         <English>Windows that float high up under the ceiling. Windows through which a ray of sunlight falls at the first devotion, onto your face.[NEWLINE][NEWLINE]The faithful murmur. The Lord God may watch over his heavenly kingdom and over the hereafter but here, in the New World, you are His representative. And you have given this house to your subjects.[NEWLINE][NEWLINE]The first house of God in this half of the earth. May it bring glory to God and glory to you![NEWLINE][NEWLINE]</English>
         <French>Vos colons disposent désormais d'un lieu de culte digne de ce nom. Les âmes de nôtres vont pouvoir trouver la paix. Les européens sont déjà plus enclins à venir s'intaller dans le Nouveau Monde.[NEWLINE][NEWLINE]</French>
         <German>Fenster, die hoch oben unter der Decke schweben. Fenster, durch die bei der ersten Andacht ein Sonnenstrahl herabfällt, Euch direkt ins Gesicht.[NEWLINE][NEWLINE]Die Gläubigen raunen. Gott, der Herr, mag über sein Himmelsreich wachen und über das Jenseits. Doch hier, in der Neuen Welt, seid Ihr sein Stellvertreter. Und Ihr habt Euren Schutzbefohlenen dieses Haus geschenkt.[NEWLINE][NEWLINE]Das erste Gotteshaus in diesem Teil des Erdkreises. Möge es Gott zur Ehre und Euch zum Ruhme gereichen![NEWLINE][NEWLINE]</German>
+	<Spanish>Ventanas que flotan en lo alto, bajo el techo. Ventanas por las que cae un rayo de sol en la primera devoción, sobre tu rostro.[NEWLINE][NEWLINE]El fiel reza silenciosamente. Dios puede velar por su reino celestial y por el más allá, pero aquí, en el Nuevo Mundo, tú eres Su representante. Y has dado esta casa a tus súbditos.[NEWLINE][NEWLINE]La primera casa de Dios en esta rincon de la tierra. ¡Que traiga gloria a Dios y gloria a ti![NEWLINE][NEWLINE]</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_TWO_CHURCHES</Tag>
         <English>Two houses of God</English>
         <French>Votre deuxième église</French>
         <German>Zwei Gotteshäuser</German>
+	<Spanish>Dos Iglesias</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_TWO_CHURCHES_HEAD</Tag>
         <English>Praise the Lord</English>
         <French>Votre deuxième église</French>
         <German>Lobet den Herrn</German>
+	<Spanish>Alabado sea el Señor</Spanish>
+	
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_TWO_CHURCHES_TEXT</Tag>
         <English>Your second church has been consecrated to the Almighty. Another place of worship now stands in this part of the world. "[COLOR_SELECTED_TEXT]Praise the Lord![COLOR_REVERT]", the faithful are shouting. "[COLOR_SELECTED_TEXT]Praise the Lord in heaven! And praise the Lord Governor, who has built these magnificent churches in honour of God.[COLOR_REVERT]"[NEWLINE][NEWLINE]</English>
         <French>Avec cette deuxième église, la population ne peut cacher sa joie : "[COLOR_SELECTED_TEXT]Loué soit le Seigneur![COLOR_REVERT]" s'exclame-t-on. "[COLOR_SELECTED_TEXT]Et loué soit notre gouverneur![COLOR_REVERT]"[NEWLINE][NEWLINE]</French>
         <German>Wieder wurde ein frommes Richtfest gefeiert. Ein weiteres Gotteshaus steht nun in diesem Teil der Welt. "[COLOR_SELECTED_TEXT]Lobet den Herrn![COLOR_REVERT]" murmelt das Volk. "[COLOR_SELECTED_TEXT]Lobet den Herrn im Himmel! Und den Herrn Gouverneur, der Gott zu Ehren diese prachtvollen Kirchen errichten lässt.[COLOR_REVERT]"[NEWLINE][NEWLINE]</German>
+	<Spanish>Tu segunda Iglesia ha sido consagrada al Todopoderoso. Otro lugar de culto ahora se encuentra en esta parte del mundo. "[COLOR_SELECTED_TEXT]¡Alabado sea el Señor![COLOR_REVERT]", gritan los fieles. "[COLOR_SELECTED_TEXT] Gloria a Dios en los cielos, Y alabado sea el Señor gobernador, que ha edificado estas magníficas iglesias en honor de Dios.[COLOR_REVERT]"[NEWLINE][NEWLINE]</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_THREE_CHURCHES</Tag>
         <English>Three houses of God</English>
         <French>Votre troisième église</French>
         <German>Drei Gotteshäuser</German>
+	<Spanish>Tres Iglesias</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_THREE_CHURCHES_HEAD</Tag>
         <English>The Godly Governor</English>
         <French>Votre troisième église</French>
         <German>Die Gottesfurcht des Gouverneurs</German>
+	<Spanish>El Santo Gobernador</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_THREE_CHURCHES_TEXT</Tag>
         <English>Reverently, the citizens bow their heads when they see you. Your fear of God has become a legend.[NEWLINE][NEWLINE]You have already built three houses of worship in this strange world. There are many citizens who are convinced that you are a holy man.[NEWLINE][NEWLINE]</English>
         <French>Vous venez de construire votre troisième église. De nombreux gens commencent à penser que leur gouverneur est un saint homme.[NEWLINE][NEWLINE]</French>
         <German>Ehrfürchtig senken die Bürger die Häupter, wenn Sie Euch erblicken. Eure Gottesfurcht ist zur Legende geworden.[NEWLINE][NEWLINE]Drei Gotteshäuser habt Ihr nun bereits in dieser fremden Welt errichten lassen. Es gibt viele Bürger, die überzeugt sind, dass Ihr ein heiliger Mann seid.[NEWLINE][NEWLINE]</German>
+	<Spanish>Con reverencia, los ciudadanos inclinan la cabeza cuando te ven. Tu temor a Dios se ha convertido en una leyenda.[NEWLINE][NEWLINE]Ya has construido tres lugares de culto en este extraño mundo. Hay muchos ciudadanos que están convencidos de que eres un hombre santo.[NEWLINE][NEWLINE]</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIRST_CATHEDRAL</Tag>
         <English>Your first cathedral</English>
         <French>Votre première cathédrale</French>
         <German>Eure erste Kathedrale</German>
+	<Spanish>Tu primera Catedral</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIRST_CATHEDRAL_HEAD</Tag>
         <English>Your first cathedral</English>
         <French>Votre première cathédrale</French>
         <German>Eure erste Kathedrale</German>
+	<Spanish>Tu primera Catedral</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIRST_CATHEDRAL_TEXT</Tag>
         <English>The Governor's fear of God made it a reality! Or was it instead the secular influence of Mother Church? The good citizens will never know.[NEWLINE][NEWLINE]The huge cathedral, however... High above the rooftops of the city, its white towers reflect the sunshine and cast their shadows far across the New World.[NEWLINE][NEWLINE]The bishop has come to celebrate the new place of worship with a mass and is already saying the first solemn words to his flock before they, the missionaries and the nuns of the local monastery, leave again to free the heathen children from the devil and lead them into the bosom of the church.[NEWLINE][NEWLINE]The towers of the huge cathedral will show them the way...[NEWLINE][NEWLINE]</English>
         <French>Le voyageur est encore à plusieurs lieues de notre colonie, mais deux tours de pierre se distingue déjà à l'horizon. « C'est donc elle, notre Cathédrale ! » lui dit son accompagnateur. « Oui », lui répond le voyageur « Et en tant qu'évêque, c'est une joie d'avoir été élu pour l'inaugurer ».[NEWLINE][NEWLINE]</French>
         <German>Die Gottesfurcht des Gouverneurs hat es Wirklichkeit werden lassen! Oder war es doch eher der weltliche Einfluss von Mutter Kirche? Dies werden die braven Bürger wohl nie erfahren.[NEWLINE][NEWLINE]Die riesige Kathedrale jedoch... Hoch über den Dächern der Stadt strahlen ihre weißen Türme im Sonnenschein und werfen Ihre Schatten bis weit in die Neue Welt hinein.[NEWLINE][NEWLINE]Der Bischof ist gekommen, um das neue Gotteshaus mit einer Messe zu feiern und spricht bereits die ersten feierlichen Worte zu seinen Schäfchen, bevor diese, d.h. die Missionare und die Nonnen des örtlichen Klosters, wieder aufbrechen, um die Heidenkinder vom Teufel zu befreien und in den Schoß der Kirche zu führen.[NEWLINE][NEWLINE]Die Türme der riesigen Kathedrale werden ihnen den Weg weisen...[NEWLINE][NEWLINE]</German>
+	<Spanish>¡El temor de Dios del Gobernador lo hizo realidad! ¿O fue más bien la influencia secular de la Iglesia en el viejo continente? Los buenos ciudadanos nunca lo sabrán.[NEWLINE][NEWLINE]La enorme catedral se nota por encima de los tejados de la ciudad. Sus torres blancas reflejan la luz del sol y proyectan sus sombras a lo largo del Nuevo Mundo.[NEWLINE][NEWLINE]El obispo ha venido a celebrar el nuevo lugar de culto con una misa y ya está diciendo las primeras palabras solemnes a su rebaño antes de que los misioneros y las monjas del monasterio local, partan nuevamente para liberar a los niños paganos del demonio y conducirlos al manto protector de la iglesia.[NEWLINE][NEWLINE]Las grandes torres de la catedral les mostrarán el camino...[NEWLINE][NEWLINE]</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_THREE_LUMBERMILLS</Tag>
         <English>Three lumbermills</English>
         <French>Votre troisième la scierie</French>
         <German>Drei Sägewerke in Städten</German>
+	<Spanish>Tres carpinterias</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_THREE_LUMBERMILLS_HEAD</Tag>
         <English>Woodworking at its best</English>
         <French>Votre troisième la scierie</French>
         <German>Holzverarbeitung vom Feinsten</German>
+	<Spanish>La carpinteria en su maximo esplendor</Spanish>
+	
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_THREE_LUMBERMILLS_TEXT</Tag>
         <English>Things are moving forward in the colonies! The good citizens in the colonies now own three sawmills.[NEWLINE][NEWLINE]Thank God that the governor has been so prudent, because this flood of settlers will need massive quantities of timber well into the future.[NEWLINE][NEWLINE]</English>
         <French>You have built your third lumbermill. Our colonies need more timber. Praise Providence that our noble Governor is a craftsman![NEWLINE][NEWLINE]</French>
         <German>Es geht voran in den Kolonien! Drei Sägewerke nennen die braven Bürger in den Kolonien nun schon ihr Eigen.[NEWLINE][NEWLINE]Gott sei es gedankt, dass der Gouverneur so umsichtig war, denn die Flut der Siedler wird auch in Zukunft Bauholz in Mengen benötigen.[NEWLINE][NEWLINE]</German>
+        <Spanish>¡Las cosas están avanzando en las colonias! Los ciudadanos de las colonias ahora poseen tres aserraderos.[NEWLINE][NEWLINE]Gracias a Dios que el gobernador ha sido tan prudente, porque esta avalancha de colonos nuevos necesitará grandes cantidades de madera en el futuro.[NEWLINE][NEWLINE]</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIRST_MINSTER</Tag>
         <English>Your first Cathedral of the Archbishop</English>
         <French>La Cathédrale de notre Archevêché</French>
         <German>Eure erste Kathedrale des Erzbishofs</German>
+	<Spanish>Tu primera Catedral del Arzobispo</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIRST_MINSTER_HEAD</Tag>
         <English>The Cathedral of the Archbishop</English>
         <French>La Cathédrale de notre Archevêché</French>
         <German>Die Kathedrale des Erzbishofs</German>
+	<Spanish>La Catedral del Arzobispo</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIRST_MINSTER_TEXT</Tag>
         <English>Great events cast their shadows ahead. One of the most massive structures in the New World has been built.[NEWLINE][NEWLINE]What walls, what towers! The Archbishop's cathedral shows even the last unconverted Native how the Lord God inspires people to great achievements.[NEWLINE][NEWLINE]The Archbishop has come to celebrate his new place of work with a Holy Mass and to give thanks to God with his fellow believers for this center of worship. Where better to recognize the power of God than here under these towers that reach into the clouds?[NEWLINE][NEWLINE]However,the Archbishop's sermon prefers not to mention how the good citizens of the colonies have paid for this towering building with their worldly deeds, and that the governor could only be "persuaded" to build it after massive pressure from Mother Church. Besides, it was only right and proper that the citizens should show their love for their parish priest by building a magnificent place of worship. How else might the Lord God be convinced of his devotion than through this cathedral...?![NEWLINE][NEWLINE]</English>
         <French>You avec construit votre Cathédrale d'Archevêché. L'Archevêque est venu pour bénir ce monument magnifique, Dieu, la Saint-Eglise... et bien sûr son nouveau pouvoir ![NEWLINE][NEWLINE]</French>
         <German>Große Ereignisse werfen ihre Schatten voraus. Eines der gewaltigsten Bauwerke in der Neuen Welt ist errichtet worden.[NEWLINE][NEWLINE]Was für Mauern, was für Türme! Die Kathedrale des Erzbischofs zeigt auch dem letzten zweifelnden Indio, zu welch' großartigen Leistungen der Herrgott die Menschen bewegen kann.[NEWLINE][NEWLINE]Der Erzbischof ist gekommen, um seine neue Wirkungsstätte mit einer heiligen Messe zu feiern und mit seinen Glaubensbrüdern Gott für dieses Gotteshaus zu danken. Wo könnte man die Macht Gottes besser erkennen als hier unter diesen Türmen, die bis in die Wolken hineinragen?[NEWLINE][NEWLINE]Dass dieses riesige Bauwerk jedoch im Grunde nur durch allzu weltliches Handeln von den braven Bürgern der Kolonien bezahlt wurde und der Gouverneur erst durch massivem Druck von Mutter Kirche zu diesem Bau "überredet" werden konnte, verschweigt der Erzbischof in seiner Predigt dann doch lieber. Außerdem war es nur recht und billig, dass die Bürger dieser Gemeinde ihrem Pfarrer ein standesgemäßes Gotteshaus errichten. Wie sonst sollte der Herrgott von seiner Ergebenheit überzeugt werden, als durch diese Kathedrale...?![NEWLINE][NEWLINE]</German>
+	<Spanish>Se ven grandes cosas en el horizonte. Se ha construido una de las estructuras más masivas del Nuevo Mundo.[NEWLINE][NEWLINE]¡Qué murallas, qué torres! La catedral del arzobispo muestra hasta al último nativo inconverso cómo el Señor inspira a las personas a grandes logros[NEWLINE][NEWLINE]El Arzobispo ha venido a celebrar su nuevo lugar de trabajo con una Santa Misa y a dar gracias a Dios con sus hermanos creyentes por este centro de culto. ¿Dónde mejor para reconocer el poder de Dios que aquí debajo de estas torres que llegan hasta las nubes?[NEWLINE][NEWLINE]Sin embargo, el sermón del arzobispo prefiere no mencionar cómo los buenos ciudadanos de las colonias han pagado este imponente edificio con sus bolsillos indirectamente, y que el gobernador solo pudo ser "persuadido" de construirlo después de una presión masiva del Arzobispado. Además, era justo y apropiado que los ciudadanos mostraran su amor por su párroco construyendo un magnífico lugar de culto. ¡¿De qué otra manera podría el Señor Dios estar convencido de su devoción que a través de esta catedral...?![NEWLINE][NEWLINE]</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_ONE_SCHOOLHOUSE</Tag>
         <English>Your first schoolhouse</English>
         <French>Votre première école</French>
         <German>Eure erste Schule</German>
+	<Spanish>Tu primera escuela</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_ONE_SCHOOLHOUSE_HEAD</Tag>
         <English>Bonehead</English>
         <French>Votre première école</French>
         <German>Holzkopf</German>
+	<Spanish>Cabeza dura</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_ONE_SCHOOLHOUSE_TEXT</Tag>
         <English>"[COLOR_SELECTED_TEXT]We already have a church. I don't understand why we need another big building with all these benches and a pulpit?[COLOR_REVERT]" Perplexed, the lumberjack leans on his crude axe.[NEWLINE][NEWLINE]"[COLOR_SELECTED_TEXT]Not a pulpit, a teacher's podium! Here I can show your boy how to read the Holy Scriptures himself. He'll learn everything needful to take his proper place in the colony, and he'll know what's what![COLOR_REVERT]"[NEWLINE][NEWLINE]"[COLOR_SELECTED_TEXT]Father, with all due respect, my boy is going to be a lumberjack![COLOR_REVERT]"[NEWLINE][NEWLINE]"[COLOR_SELECTED_TEXT]God willing, he might learn to be a blacksmith instead if he has the talent and the will. Look at your old axe. I can't tell which side the edge used to be on![COLOR_REVERT]"[NEWLINE][NEWLINE]</English>
         <French>Vous venez de construire votre première école. Il s'agit des premiers fondements de votre système d'èducation.[NEWLINE][NEWLINE]</French>
         <German>"[COLOR_SELECTED_TEXT]Also ne Kirch ham wa doch, also ich versteh das nich, was brauchn wa noch so´n riesen Kasten mit die ganze Bänke und ner Kanzel?[COLOR_REVERT]" Ratlos stützt sich der vierschrötige Mann auf seine grobschlächtige Axt.[NEWLINE][NEWLINE]"[COLOR_SELECTED_TEXT]Nicht Kanzel, Katheder! Hier werde ich deinem Buben beibringen, die Heilige Schrift zu lesen. Später lernt er dann alles, was es braucht, um an der rechten Stelle in der Kolonie mit Verstand anzupacken![COLOR_REVERT]"[NEWLINE][NEWLINE]"[COLOR_SELECTED_TEXT]Herr Pfarrer, bei allm Respekt, aba mein Jung wird Holzfäller![COLOR_REVERT]"[NEWLINE][NEWLINE]"[COLOR_SELECTED_TEXT]So Gott will, vielleicht besser ein brauchbarer Schmied und Werkzeugmacher. Sieh dir dein altes Beil doch an, ich erkenne nicht, auf welcher Seite die Schneide einst war![COLOR_REVERT]"[NEWLINE][NEWLINE]</German>
+	<Spanish>Ya tenemos una iglesia. No entiendo por qué necesitamos otro gran edificio con todos estos bancos y un púlpito.[COLOR_REVERT]" Perplejo, el leñador se apoya en su tosca hacha..[NEWLINE][NEWLINE]"[COLOR_SELECTED_TEXT]¡No es un púlpito, es el podio de un maestro! Aquí puedo mostrarle a su hijo cómo leer las Sagradas Escrituras él mismo. Aprenderá todo lo necesario para ocupar el lugar que le corresponde en la colonia, ¡y sabrá qué es qué![COLOR_REVERT]"[NEWLINE][NEWLINE]"[COLOR_SELECTED_TEXT]Padre, con todo respeto, ¡mi hijo va a ser leñador![COLOR_REVERT]"[NEWLINE][NEWLINE]"[COLOR_SELECTED_TEXT]Si Dios quiere, podría aprender a ser herrero si tiene el talento y la voluntad. Mira tu vieja hacha. ¡Ya no puedo decir de qué lado solía estar el borde![COLOR_REVERT]"[NEWLINE][NEWLINE]</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIRST_STOCKADE</Tag>
         <English>Your first fortification</English>
         <French>Votre première palissade</French>
         <German>Euer erstes Verteidigungswerk</German>
+	<Spanish>Tu primera fortificacion</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIRST_STOCKADE_HEAD</Tag>
         <English>Safe at last</English>
         <French>Enfin protégés !</French>
         <German>Ausgesperrt</German>
+	<Spanish>Al fin a salvo</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIRST_STOCKADE_TEXT</Tag>
         <English>Suddenly a shadow fills the doorway, blocking out the evening sun.[NEWLINE][NEWLINE]The woman is startled as the shadow touches her - but then she looks up and smiles.[NEWLINE][NEWLINE]"[COLOR_SELECTED_TEXT]A beautiful evening, darling,[COLOR_REVERT]" the man says amiably. "[COLOR_SELECTED_TEXT]Where is our little one?[COLOR_REVERT]"[NEWLINE][NEWLINE]"[COLOR_SELECTED_TEXT]Isn't he playing with the chickens outside the door?[COLOR_REVERT]" she asks, worried again.[NEWLINE][NEWLINE]"[COLOR_SELECTED_TEXT]Be calm. We finished putting up the palisades today. No wolf will be skulking around our houses, looking for a chicken. Or something bigger.[COLOR_REVERT]"[NEWLINE][NEWLINE]</English>
         <French>Une femme s'approche appeurée d'un soldat : « Mon fils est parti pourchassé un poulet et ne le retrouve plus, je crains pour sa sécurité ! » « N'ayez aucune crainte », lui répond le soldat, « avec notre nouvelle défense, les loups n'erreront plus dans nos rues. »[NEWLINE][NEWLINE]</French>
         <German>Ein Schatten steht plötzlich im Türrahmen und verdeckt die Abendsonne. Die Frau erschrickt, als sie der Schatten berührt - doch als sie aufsieht, lächelt sie. "[COLOR_SELECTED_TEXT]Guten Abend, Eheweib[COLOR_REVERT]", brummt der Mann freundlich. "[COLOR_SELECTED_TEXT]Wo steckt denn unser Kleiner?[COLOR_REVERT]"[NEWLINE][NEWLINE]"[COLOR_SELECTED_TEXT]Spielt er denn nicht vor der Tür mit den Hühnern?[COLOR_REVERT]" fragt sie zurück und ist erneut besorgt. "[COLOR_SELECTED_TEXT]Beruhige dich, Weib. Wir sind heute mit dem Verteidigungswerk fertig geworden. Kein Wolf wird mehr zwischen den Häusern umherstreifen, auf der Suche nach einem Huhn. Oder etwas Größerem.[COLOR_REVERT]"[NEWLINE][NEWLINE]</German>
+	<Spanish>De repente, una sombra cubre la puerta de entrada, bloqueando el sol de la tarde.[NEWLINE][NEWLINE]La mujer se sobresalta cuando la sombra la toca, pero luego mira hacia arriba y sonríe.[NEWLINE][NEWLINE]"[COLOR_SELECTED_TEXT]Hermosa tarde querida[COLOR_REVERT]" dice el hombre amablemente. "[COLOR_SELECTED_TEXT]¿Dónde está nuestro pequeño?[COLOR_REVERT]"[NEWLINE][NEWLINE]"[COLOR_SELECTED_TEXT]¿No está jugando con las gallinas fuera de la puerta?[COLOR_REVERT]" pregunta ella, preocupada de nuevo.[NEWLINE][NEWLINE]"[COLOR_SELECTED_TEXT]No te preocupes. Hoy terminamos de armar las empalizadas. Ningún lobo merodeará por nuestras casas en busca de una gallina. O algo más grande.[COLOR_REVERT]"[NEWLINE][NEWLINE]</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_THREE_STOCKADE</Tag>
         <English>Several fortifications (3)</English>
         <French>Votre troisième palissade</French>
         <German>Einige Verteidigungswerke (3)</German>
+	<Spanish>Varias fortificaciones (3)</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_THREE_STOCKADE_HEAD</Tag>
         <English>Protecting your people</English>
         <French>Vous venez de construire votre troisième palissade</French>
         <German>Beschützer und Beschützte</German>
+	<Spanish>Protegiendo a tu gente</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_THREE_STOCKADE_TEXT</Tag>
         <English>Straight, solid tree trunks, debarked and anchored in the ground, enclose and protect your settlements. Watch towers, from which alert eyes suspiciously examine the surrounding countryside, rise above the houses.[NEWLINE][NEWLINE]The defences you erect in your cities protect your citizens - and earn you the respect of your subjects.[NEWLINE][NEWLINE]</English>
         <French>Le système de défense que nous construisons dans nos colonies apportent protection aux citoyens, et respect à votre égard.[NEWLINE][NEWLINE]</French>
         <German>Gerade, feste Baumstämme, entrindet und im Erdgrund verankert, umschließen und beschirmen die Siedlungen. Wachtürme, von denen aufmerksame Augenpaare misstrauisch das Umland mustern, erheben sich über den Häusern.[NEWLINE][NEWLINE]Die Verteidigungswerke, die Ihr in Euren Städten errichten lasst, bringen Euren Bürgern Schutz - und Euch den Respekt Eurer Untertanen.[NEWLINE][NEWLINE]</German>
+	<Spanish>Troncos de árboles sólidos, rectos, descortezados y anclados en el suelo, encierran y protegen tus asentamientos. Sobre las casas se elevan torres de vigilancia, desde las cuales ojos alertas examinan con recelo el paisaje circundante.[NEWLINE][NEWLINE]Las defensas que eriges en tus ciudades protegen a tus ciudadanos y te ganan el respeto de tus súbditos.[NEWLINE][NEWLINE]</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_EIGHT_STOCKADE</Tag>
         <English>Many fortifications (8)</English>
         <French>Huit Palissades</French>
         <German>Viele Verteidigungswerke (8)</German>
+	<Spanish>Muchas fortificaciones (8)</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_EIGHT_STOCKADE_HEAD</Tag>
         <English>Peace on earth</English>
         <French>Huit Palissades</French>
         <German>Frieden auf Erden</German>
+	<Spanish>Paz en la tierra</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_EIGHT_STOCKADE_TEXT</Tag>
         <English>Defence works of stout timber surround your settlements. Your people are thankful that they can live in peace.[NEWLINE][NEWLINE]In more and more of your cities, solid walls and watchtowers protect your citizens.[NEWLINE][NEWLINE]Truly, only God can take care of human happiness in the hereafter. But for this world you, the governor, are here.[NEWLINE][NEWLINE]You give your subjects peace on earth.[NEWLINE][NEWLINE]May your happiness never arouse the envy of others![NEWLINE][NEWLINE]Especially not the envy of a tyrant well known to you, who poses as your sovereign...[NEWLINE][NEWLINE]</English>
         <French>De plus en plus de nos villes sont protégés par des murs solides et des tours de garde. Le peuple vous remercie de lui apporter cette paix.[NEWLINE][NEWLINE]</French>
         <German>In immer mehr Eurer Städte sorgen feste Mauern und Wachtürme für den Schutz Eurer Bürger.[NEWLINE][NEWLINE]Fürwahr, für das Menschenglück im Jenseits kann nur Gott sorgen. Doch für das Diesseits seid Ihr, der Gouverneur, da.[NEWLINE][NEWLINE]Ihr schenkt Euren Untertanen Frieden auf Erden.[NEWLINE][NEWLINE]Möge Euer Glück niemals den Neid anderer wecken![NEWLINE][NEWLINE]Insbesondere nicht die Missgunst eines Euch wohlbekannten Tyrannen, der sich als Euer Landesherr aufspielt ...[NEWLINE][NEWLINE]</German>
+	<Spanish>Obras de defensa de madera maciza rodean tus asentamientos. Tu pueblo está agradecido de poder vivir en paz.[NEWLINE][NEWLINE]En cada vez más de tus ciudades, muros sólidos y torres de vigilancia protegen a tus ciudadanos.[NEWLINE][NEWLINE]Verdaderamente, solo Dios puede cuidar de la felicidad humana en el más allá. Pero en este mundo, el que vela por la seguridad eres tu, el gobernador. [NEWLINE][NEWLINE]Tú das a tus súbditos paz en la tierra.[NEWLINE][NEWLINE]¡Que tu felicidad nunca despierte la envidia de los demás![NEWLINE][NEWLINE]Especialmente no la envidia de un tirano muy conocido por ti, que se hace pasar por tu soberano...[NEWLINE][NEWLINE]</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIRST_GREAT_BASTION</Tag>
         <English>Your first great bastion</English>
         <French>Votre premier grand bastion</French>
         <German>Eure erste Große Bastion</German>
+	<Spanish>Tu primer gran bastion</Spanish>
+	
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIRST_GREAT_BASTION_HEAD</Tag>
         <English>An impregnable fortress</English>
         <French>Votre premier grand bastion</French>
         <German>Eine uneinnehmbare Festung</German>
+	<Spanish>Una fortaleza inexpugnable</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIRST_GREAT_BASTION_TEXT</Tag>
         <English>The workmen lay aside their tools, the priest blesses the walls, the new guard marches up and the commander speaks confidently of the fortress impregnability.[NEWLINE][NEWLINE]Towering high above the city, proud and mighty - the first great bastion gives this fortress a truly majestic appearance.[NEWLINE][NEWLINE]From a distance, the governor listens to the gun salutes.[NEWLINE][NEWLINE]His wife asks, "[COLOR_SELECTED_TEXT]Can we honestly feel safe now? Might not such a large fortress provoke our neighbours more?[COLOR_REVERT]"[NEWLINE][NEWLINE]</English>
         <French>Les artisans rangent leurs outils, le prêtre apporte sa bénédiction aux nouveaux murs, la nouvelle garde arrive et le commandant se vante de l'inviolabilité de la forteresse.[NEWLINE][NEWLINE]Surplombant la ville, le premier Grand Bastion de votre nation, domine avec puissance et majesté.[NEWLINE][NEWLINE]Au loin, alors que le gouverneur fait tirer la salve d'honneur. Sa femme lui glisse à l'oreille : « Espérons que cet ouvrage suscite chez nos voisins davantage de craintes que de convoitises ».[NEWLINE][NEWLINE]</French>
         <German>Die Handwerker legen ihre Werkzeuge beiseite, der Pfarrer segnet die Mauern, die neue Wache zieht auf und der Kommandeur spricht von der Uneinnehmbarkeit dieser Festung.[NEWLINE][NEWLINE]Hoch über der Stadt ragt sie auf, stolz und mächtig - die erste Große Bastion dieser Festung verleiht ihr ein wahrlich majestätisches Aussehen.[NEWLINE][NEWLINE]Aus der Ferne lauscht der Gouverneur den Salutschüssen.[NEWLINE][NEWLINE]Seine Frau meint fragend zu ihm: "[COLOR_SELECTED_TEXT]Ob wir uns nun wirklich sicherer fühlen können? Wird eine so große Festung unsere Nachbarn nicht vielleicht doch eher provozieren?[COLOR_REVERT]"[NEWLINE][NEWLINE]</German>
+	<Spanish>Los trabajadores dejan a un lado sus herramientas, el sacerdote bendice los muros, la nueva guardia avanza y el comandante habla con confianza de la inexpugnabilidad de la fortaleza.[NEWLINE][NEWLINE]Elevándose por encima de la ciudad, orgulloso y poderoso, el primer gran bastión le da a esta fortaleza una apariencia verdaderamente majestuosa.[NEWLINE][NEWLINE]Desde la distancia, el gobernador escucha los saludos militares.[NEWLINE][NEWLINE]Su esposa pregunta, "[COLOR_SELECTED_TEXT]¿Podemos honestamente sentirnos seguros ahora? ¿No podría una fortaleza tan grande provocar más a nuestros vecinos?[COLOR_REVERT]"[NEWLINE][NEWLINE]</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIFTY_BELLS</Tag>
         <English>Many liberty bells (50)</English>
         <French>Cinquante cloches par tour</French>
         <German>Viele Freiheitsglocken (50)</German>
+	<Spanish>Varias campanas de libertad</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIFTY_BELLS_HEAD</Tag>
         <English>A hint of freedom</English>
         <French>Cinquante cloches par tour</French>
         <German>Eine Ahnung von Freiheit</German>
+	<Spanish>Un poco de libertad</Spanish>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_ACHIEVE_FIFTY_BELLS_TEXT</Tag>
